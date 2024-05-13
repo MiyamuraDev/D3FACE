@@ -3,6 +3,15 @@
 
 NS-Defacer is a auto html injecter, In other words It's a auto defacer to deface a lot of websites in less time. It is written in python3 
 
+## installation2
+
+```sh
+rm -rf D3FACE.py
+git clone https://github.com/MiyamuraDev/D3FACE.git
+cd D3FACE
+python ns-deface.py
+```
+
 ## Installation
 
 Install the requirements
